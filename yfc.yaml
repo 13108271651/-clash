@@ -35,7 +35,7 @@ ruleset=国外,[]FINAL
 custom_proxy_group=国外`select`[]选择`[]DIRECT
 custom_proxy_group=国内`select`[]选择`[]DIRECT
 custom_proxy_group=选择`url-test`.*`http://www.gstatic.com/generate_204`30,,50
-custom_proxy_group=游戏平台`select`[]国内`[]国外
+custom_proxy_group=游戏`select`[]国内`[]国外
 
 ;设置分组标志位
 
