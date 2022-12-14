@@ -42,4 +42,3 @@ custom_proxy_group=游戏平台`select`[]国内`[]国外
 enable_rule_generator=true
 overwrite_original_rules=true
 
-;clash_rule_base=https://ghproxy.com/https://raw.githubusercontent.com/hope140/Clash/beta/GeneralClashConfig.yml
